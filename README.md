@@ -1,4 +1,13 @@
-### Hi there 👋
+# Welcome to my github 
+
+┈┏╮┈┈┈╭┓┈┈╭┳━╮┈ 
+┈┃┗━━━┛┃┈┈╰┻╮┃┈ 
+┈┃╰╯┈╰╯┣━━━╮┃┃┈ 
+┈┃┈┈▲┈┈┃┈╭━┣╯┃┈ 
+┈╰┳╰━╯┳╯╭┛┈┣━╯┈ 
+┈┈╰╯┈╰╯┈╰━━╯┈┈┈
+
+My name is Egor Dolgodvorov
 
 <!--
 **Krym4s/Krym4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
