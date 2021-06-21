@@ -19,21 +19,18 @@ My name is Egor Dolgodvorov, this github was created in the first year of univer
 
 * Processor Emulator with it`s own assembler-like language 
 
-    *[Separate chaining hash table (vocabulary)]https://github.com/Krym4s/Processor)
-    *[Separate chaining hash table (vocabulary)]https://github.com/Krym4s/Hash_table)
-    *[Separate chaining hash table (vocabulary)]https://github.com/Krym4s/Hash_table)
+    *[Processor Emulator](https://github.com/Krym4s/Processor)
+    *[Programm that translates assembler-like language to bin code)](https://github.com/Krym4s/Assembler)
+    *[Programm that translates bin code  to assembler-like language](https://github.com/Krym4s/Disassembler)
+    
+* [Programm that differentiates one variable functions](https://github.com/Krym4s/Differentiator)
 
-<!--
-**Krym4s/Krym4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* [Bin translator](https://github.com/Krym4s/bin-translator)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contacts:
+
+| vk | gmail| 
+|----|------|
+|[vk](https://vk.com/dolgoplet)|dolgodvorov.ev@phystech.edu|
+
