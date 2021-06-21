@@ -1,6 +1,7 @@
 # Welcome to my github 
 
 ┈┏╮┈┈┈╭┓┈┈╭┳━╮┈ 
+
 ┈┃┗━━━┛┃┈┈╰┻╮┃┈
 
 ┈┃╰╯┈╰╯┣━━━╮┃┃┈
@@ -11,7 +12,9 @@
 
 ┈┈╰╯┈╰╯┈╰━━╯┈┈┈
 
-My name is Egor Dolgodvorov
+My name is Egor Dolgodvorov, this github was created in the first year of university. You can see some interesting projrcts in this page: 
+
+[Separate chaining hash table (vocabulary)]https://github.com/Krym4s/Hash_table)
 
 <!--
 **Krym4s/Krym4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
