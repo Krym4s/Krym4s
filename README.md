@@ -12,7 +12,7 @@
 
 ┈┈╰╯┈╰╯┈╰━━╯┈┈┈
 
-My name is Egor Dolgodvorov, this github was created in the first year of university. You can see some interesting projrcts in this page: 
+My name is Egor Dolgodvorov, this github was created in the first year of university. You can see some interesting projects in this page: 
 
 
 * [Separate chaining hash table (vocabulary)](https://github.com/Krym4s/Hash_table)
